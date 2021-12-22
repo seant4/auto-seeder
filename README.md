@@ -1,1 +1,2 @@
-# auto-seeder
+# NC-Seeding
+help north carolina smash seeding
